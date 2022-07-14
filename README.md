@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @al-026
 - 👀 I’m interested in building websites
-- 🌱 I’m currently learning React and React-Redux
-- 💞️ I’m looking to collaborate on highly experienced developers
 - 📫 You can contact me through alcoran026@gmail.com
 
 <!---
